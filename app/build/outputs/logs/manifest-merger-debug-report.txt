@@ -1,0 +1,322 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:8.0.2] /home/lucky/.gradle/caches/transforms-3/d8cf0298a1ce11bfd1aea0f48f84bcba/transformed/viewbinding-8.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.4.0] /home/lucky/.gradle/caches/transforms-3/7719d6a3f3433181e98772ea2e0f9fdc/transformed/coil-2.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.4.0] /home/lucky/.gradle/caches/transforms-3/7d8ec8043bc401809604a792e775c946/transformed/coil-base-2.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.5.0] /home/lucky/.gradle/caches/transforms-3/079d9200bdcd0b4ff6edcaeeae776c97/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/lucky/.gradle/caches/transforms-3/4324522c8cfb8244e5bdf2ff3b6db326/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/lucky/.gradle/caches/transforms-3/6be3423186e8d63ca26eed910c79bc17/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/lucky/.gradle/caches/transforms-3/199068c8d6b1225e241314293d2824e2/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lucky/.gradle/caches/transforms-3/ad6d1a0511d73096cbc26a4ba739413c/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/lucky/.gradle/caches/transforms-3/89046090a1531c2d8d0dd97c071cb4f2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /home/lucky/.gradle/caches/transforms-3/5233be19383760984047d353add85365/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/lucky/.gradle/caches/transforms-3/0713354d52aced87eef4176c6effffa7/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/lucky/.gradle/caches/transforms-3/eb070a91132f60305482afd030a3a667/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lucky/.gradle/caches/transforms-3/6590f55b380dc7b51f3079f06b2804b7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lucky/.gradle/caches/transforms-3/ca6ec3b8756004752ca615dc07248e00/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/lucky/.gradle/caches/transforms-3/b92fe1783e9f52ffb477bce33b3b6ebe/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/lucky/.gradle/caches/transforms-3/32c38e6ef7ae14e86ede6764e4a34d31/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/lucky/.gradle/caches/transforms-3/8db5072dc6bb41a6e13c511035e7e14e/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/lucky/.gradle/caches/transforms-3/23744b7875f76847f2069573c8f3cff5/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/lucky/.gradle/caches/transforms-3/aae1d6d2fdc14b2c6770a8865f9d074b/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/lucky/.gradle/caches/transforms-3/bfd8042b3a930279faf38312d1afc485/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/897872f92d97e7778716c77526c816e4/transformed/core-ktx-1.12.0-alpha05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lucky/.gradle/caches/transforms-3/a98fdb8c58b9ee0383440f2efb7c0541/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lucky/.gradle/caches/transforms-3/db0033cae61aa8d54f05d0d98013910e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/lucky/.gradle/caches/transforms-3/3cc736aad893cd939ff48631d63c526d/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lucky/.gradle/caches/transforms-3/9df4f1422e36f8aa403382240ce43990/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lucky/.gradle/caches/transforms-3/562a63d4ea9d9399084584892332aad1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lucky/.gradle/caches/transforms-3/104bb11d2198d9fb5d0b2918ae87aecc/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lucky/.gradle/caches/transforms-3/f149dc5d6d56c73d5c78ec719f8babd4/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/lucky/.gradle/caches/transforms-3/5da88c9ce74bb5058d1c333430249389/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/lucky/.gradle/caches/transforms-3/597032cf63f49f46977e3a15619685a8/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/lucky/.gradle/caches/transforms-3/da94d7d93eb86eaec6876cc98426c3f9/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lucky/.gradle/caches/transforms-3/b1b9cf87347762f2ae23a8dc1fdf57fb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lucky/.gradle/caches/transforms-3/5b428654ce9a0d4d6cb30d96811a120f/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lucky/.gradle/caches/transforms-3/01f66143b9339c5fb5632abd743da118/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/lucky/.gradle/caches/transforms-3/06522bca01102c87369a9d69972c3a7e/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lucky/.gradle/caches/transforms-3/4e2bff65ff3dc68841bfa83e4d41a7c9/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lucky/.gradle/caches/transforms-3/bba5d04247c2673355de288a771c7a8b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lucky/.gradle/caches/transforms-3/0eb245c3268bbf829e2bbe79f847a741/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/lucky/.gradle/caches/transforms-3/0e72a7bfc079714f5174f101e83a802b/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lucky/.gradle/caches/transforms-3/148e6f8943f25c4b5416266630f96770/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lucky/.gradle/caches/transforms-3/deab187835a63579bf53b6ccc7c61eaa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/lucky/.gradle/caches/transforms-3/29803fd57965b0249eab2e967774626a/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/lucky/.gradle/caches/transforms-3/f2849500605ddf90fd75317525974a68/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.google.android.material:material:1.5.0] /home/lucky/.gradle/caches/transforms-3/079d9200bdcd0b4ff6edcaeeae776c97/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /home/lucky/.gradle/caches/transforms-3/079d9200bdcd0b4ff6edcaeeae776c97/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/lucky/.gradle/caches/transforms-3/4324522c8cfb8244e5bdf2ff3b6db326/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/lucky/.gradle/caches/transforms-3/4324522c8cfb8244e5bdf2ff3b6db326/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/lucky/.gradle/caches/transforms-3/eb070a91132f60305482afd030a3a667/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/lucky/.gradle/caches/transforms-3/eb070a91132f60305482afd030a3a667/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/lucky/.gradle/caches/transforms-3/23744b7875f76847f2069573c8f3cff5/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/lucky/.gradle/caches/transforms-3/23744b7875f76847f2069573c8f3cff5/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lucky/.gradle/caches/transforms-3/01f66143b9339c5fb5632abd743da118/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lucky/.gradle/caches/transforms-3/01f66143b9339c5fb5632abd743da118/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lucky/.gradle/caches/transforms-3/bba5d04247c2673355de288a771c7a8b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lucky/.gradle/caches/transforms-3/bba5d04247c2673355de288a771c7a8b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:14:9-47
+	android:dataExtractionRules
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:8:9-65
+activity#com.example.homework2.MainActivity
+ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.0.2] /home/lucky/.gradle/caches/transforms-3/d8cf0298a1ce11bfd1aea0f48f84bcba/transformed/viewbinding-8.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.0.2] /home/lucky/.gradle/caches/transforms-3/d8cf0298a1ce11bfd1aea0f48f84bcba/transformed/viewbinding-8.0.2/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.4.0] /home/lucky/.gradle/caches/transforms-3/7719d6a3f3433181e98772ea2e0f9fdc/transformed/coil-2.4.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.4.0] /home/lucky/.gradle/caches/transforms-3/7719d6a3f3433181e98772ea2e0f9fdc/transformed/coil-2.4.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.4.0] /home/lucky/.gradle/caches/transforms-3/7d8ec8043bc401809604a792e775c946/transformed/coil-base-2.4.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.4.0] /home/lucky/.gradle/caches/transforms-3/7d8ec8043bc401809604a792e775c946/transformed/coil-base-2.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.5.0] /home/lucky/.gradle/caches/transforms-3/079d9200bdcd0b4ff6edcaeeae776c97/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /home/lucky/.gradle/caches/transforms-3/079d9200bdcd0b4ff6edcaeeae776c97/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/lucky/.gradle/caches/transforms-3/4324522c8cfb8244e5bdf2ff3b6db326/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/lucky/.gradle/caches/transforms-3/4324522c8cfb8244e5bdf2ff3b6db326/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/lucky/.gradle/caches/transforms-3/6be3423186e8d63ca26eed910c79bc17/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/lucky/.gradle/caches/transforms-3/6be3423186e8d63ca26eed910c79bc17/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/lucky/.gradle/caches/transforms-3/199068c8d6b1225e241314293d2824e2/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/lucky/.gradle/caches/transforms-3/199068c8d6b1225e241314293d2824e2/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lucky/.gradle/caches/transforms-3/ad6d1a0511d73096cbc26a4ba739413c/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lucky/.gradle/caches/transforms-3/ad6d1a0511d73096cbc26a4ba739413c/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/lucky/.gradle/caches/transforms-3/89046090a1531c2d8d0dd97c071cb4f2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/lucky/.gradle/caches/transforms-3/89046090a1531c2d8d0dd97c071cb4f2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /home/lucky/.gradle/caches/transforms-3/5233be19383760984047d353add85365/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /home/lucky/.gradle/caches/transforms-3/5233be19383760984047d353add85365/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/lucky/.gradle/caches/transforms-3/0713354d52aced87eef4176c6effffa7/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/lucky/.gradle/caches/transforms-3/0713354d52aced87eef4176c6effffa7/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/lucky/.gradle/caches/transforms-3/eb070a91132f60305482afd030a3a667/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/lucky/.gradle/caches/transforms-3/eb070a91132f60305482afd030a3a667/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lucky/.gradle/caches/transforms-3/6590f55b380dc7b51f3079f06b2804b7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lucky/.gradle/caches/transforms-3/6590f55b380dc7b51f3079f06b2804b7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lucky/.gradle/caches/transforms-3/ca6ec3b8756004752ca615dc07248e00/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lucky/.gradle/caches/transforms-3/ca6ec3b8756004752ca615dc07248e00/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lucky/.gradle/caches/transforms-3/b92fe1783e9f52ffb477bce33b3b6ebe/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lucky/.gradle/caches/transforms-3/b92fe1783e9f52ffb477bce33b3b6ebe/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/lucky/.gradle/caches/transforms-3/32c38e6ef7ae14e86ede6764e4a34d31/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/lucky/.gradle/caches/transforms-3/32c38e6ef7ae14e86ede6764e4a34d31/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/lucky/.gradle/caches/transforms-3/8db5072dc6bb41a6e13c511035e7e14e/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/lucky/.gradle/caches/transforms-3/8db5072dc6bb41a6e13c511035e7e14e/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/lucky/.gradle/caches/transforms-3/23744b7875f76847f2069573c8f3cff5/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/lucky/.gradle/caches/transforms-3/23744b7875f76847f2069573c8f3cff5/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/lucky/.gradle/caches/transforms-3/aae1d6d2fdc14b2c6770a8865f9d074b/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/lucky/.gradle/caches/transforms-3/aae1d6d2fdc14b2c6770a8865f9d074b/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/lucky/.gradle/caches/transforms-3/bfd8042b3a930279faf38312d1afc485/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/lucky/.gradle/caches/transforms-3/bfd8042b3a930279faf38312d1afc485/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/897872f92d97e7778716c77526c816e4/transformed/core-ktx-1.12.0-alpha05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/897872f92d97e7778716c77526c816e4/transformed/core-ktx-1.12.0-alpha05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lucky/.gradle/caches/transforms-3/a98fdb8c58b9ee0383440f2efb7c0541/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lucky/.gradle/caches/transforms-3/a98fdb8c58b9ee0383440f2efb7c0541/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lucky/.gradle/caches/transforms-3/db0033cae61aa8d54f05d0d98013910e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lucky/.gradle/caches/transforms-3/db0033cae61aa8d54f05d0d98013910e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/lucky/.gradle/caches/transforms-3/3cc736aad893cd939ff48631d63c526d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/lucky/.gradle/caches/transforms-3/3cc736aad893cd939ff48631d63c526d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lucky/.gradle/caches/transforms-3/9df4f1422e36f8aa403382240ce43990/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lucky/.gradle/caches/transforms-3/9df4f1422e36f8aa403382240ce43990/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lucky/.gradle/caches/transforms-3/562a63d4ea9d9399084584892332aad1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lucky/.gradle/caches/transforms-3/562a63d4ea9d9399084584892332aad1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lucky/.gradle/caches/transforms-3/104bb11d2198d9fb5d0b2918ae87aecc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lucky/.gradle/caches/transforms-3/104bb11d2198d9fb5d0b2918ae87aecc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lucky/.gradle/caches/transforms-3/f149dc5d6d56c73d5c78ec719f8babd4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lucky/.gradle/caches/transforms-3/f149dc5d6d56c73d5c78ec719f8babd4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/lucky/.gradle/caches/transforms-3/5da88c9ce74bb5058d1c333430249389/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/lucky/.gradle/caches/transforms-3/5da88c9ce74bb5058d1c333430249389/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/lucky/.gradle/caches/transforms-3/597032cf63f49f46977e3a15619685a8/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/lucky/.gradle/caches/transforms-3/597032cf63f49f46977e3a15619685a8/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/lucky/.gradle/caches/transforms-3/da94d7d93eb86eaec6876cc98426c3f9/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/lucky/.gradle/caches/transforms-3/da94d7d93eb86eaec6876cc98426c3f9/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lucky/.gradle/caches/transforms-3/b1b9cf87347762f2ae23a8dc1fdf57fb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lucky/.gradle/caches/transforms-3/b1b9cf87347762f2ae23a8dc1fdf57fb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lucky/.gradle/caches/transforms-3/5b428654ce9a0d4d6cb30d96811a120f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lucky/.gradle/caches/transforms-3/5b428654ce9a0d4d6cb30d96811a120f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lucky/.gradle/caches/transforms-3/01f66143b9339c5fb5632abd743da118/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lucky/.gradle/caches/transforms-3/01f66143b9339c5fb5632abd743da118/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/lucky/.gradle/caches/transforms-3/06522bca01102c87369a9d69972c3a7e/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/lucky/.gradle/caches/transforms-3/06522bca01102c87369a9d69972c3a7e/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lucky/.gradle/caches/transforms-3/4e2bff65ff3dc68841bfa83e4d41a7c9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lucky/.gradle/caches/transforms-3/4e2bff65ff3dc68841bfa83e4d41a7c9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lucky/.gradle/caches/transforms-3/bba5d04247c2673355de288a771c7a8b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lucky/.gradle/caches/transforms-3/bba5d04247c2673355de288a771c7a8b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lucky/.gradle/caches/transforms-3/0eb245c3268bbf829e2bbe79f847a741/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lucky/.gradle/caches/transforms-3/0eb245c3268bbf829e2bbe79f847a741/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/lucky/.gradle/caches/transforms-3/0e72a7bfc079714f5174f101e83a802b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/lucky/.gradle/caches/transforms-3/0e72a7bfc079714f5174f101e83a802b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lucky/.gradle/caches/transforms-3/148e6f8943f25c4b5416266630f96770/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lucky/.gradle/caches/transforms-3/148e6f8943f25c4b5416266630f96770/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lucky/.gradle/caches/transforms-3/deab187835a63579bf53b6ccc7c61eaa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lucky/.gradle/caches/transforms-3/deab187835a63579bf53b6ccc7c61eaa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lucky/.gradle/caches/transforms-3/29803fd57965b0249eab2e967774626a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lucky/.gradle/caches/transforms-3/29803fd57965b0249eab2e967774626a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/lucky/.gradle/caches/transforms-3/f2849500605ddf90fd75317525974a68/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/lucky/.gradle/caches/transforms-3/f2849500605ddf90fd75317525974a68/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/SD/AndroidStudioProjects/HomeWork2/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lucky/.gradle/caches/transforms-3/eb070a91132f60305482afd030a3a667/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/lucky/.gradle/caches/transforms-3/23744b7875f76847f2069573c8f3cff5/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/lucky/.gradle/caches/transforms-3/23744b7875f76847f2069573c8f3cff5/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lucky/.gradle/caches/transforms-3/bba5d04247c2673355de288a771c7a8b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lucky/.gradle/caches/transforms-3/bba5d04247c2673355de288a771c7a8b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lucky/.gradle/caches/transforms-3/eb070a91132f60305482afd030a3a667/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lucky/.gradle/caches/transforms-3/eb070a91132f60305482afd030a3a667/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lucky/.gradle/caches/transforms-3/eb070a91132f60305482afd030a3a667/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lucky/.gradle/caches/transforms-3/eb070a91132f60305482afd030a3a667/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lucky/.gradle/caches/transforms-3/eb070a91132f60305482afd030a3a667/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lucky/.gradle/caches/transforms-3/eb070a91132f60305482afd030a3a667/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lucky/.gradle/caches/transforms-3/eb070a91132f60305482afd030a3a667/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/lucky/.gradle/caches/transforms-3/23744b7875f76847f2069573c8f3cff5/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/lucky/.gradle/caches/transforms-3/23744b7875f76847f2069573c8f3cff5/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/lucky/.gradle/caches/transforms-3/23744b7875f76847f2069573c8f3cff5/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:23:9-81
+permission#com.example.homework2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:26:22-94
+uses-permission#com.example.homework2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0-alpha05] /home/lucky/.gradle/caches/transforms-3/dc8d79b5cc752adf3716c3fb352397fa/transformed/core-1.12.0-alpha05/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lucky/.gradle/caches/transforms-3/ac71e2e42b25e60b0a70d293d805896f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
